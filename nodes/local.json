@@ -6,7 +6,8 @@
     },
     "run_list": [
         "recipe[homebrew]",
-        "recipe[brew]",
+        "recipe[mac_os_x]",
+        "recipe[brew]"
     ],
     "homebrew": {
         "packages": [
