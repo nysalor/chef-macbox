@@ -32,7 +32,6 @@
 	    "mysql",
 	    "nkf",
 	    "node",
-	    "osx-cpu-temp",
 	    "pango",
 	    "pkg-config",
 	    "python",
@@ -50,7 +49,9 @@
             "rbenv",
             "ruby-build",
             "tree",
-            "w3m"
+            "w3m",
+	    "https://raw.github.com/nysalor/homebrew-myformulas/master/inputsource.rb",
+	    "https://raw.github.com/nysalor/homebrew-myformulas/master/inputsource.rb"
         ]
     }
 }
