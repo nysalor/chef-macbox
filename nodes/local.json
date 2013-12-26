@@ -13,7 +13,6 @@
         "packages": [
 	    "autoconf",
 	    "automake",
-	    "cairo",
 	    "cmake",
 	    "ctags",
 	    "ffmpeg",
@@ -31,7 +30,7 @@
 	    "mongodb",
 	    "mysql",
 	    "nkf",
-	    "node",
+	    "openssl",
 	    "pango",
 	    "pkg-config",
 	    "python",
