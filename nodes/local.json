@@ -24,6 +24,7 @@
 	    "groonga",
 	    "imagemagick",
 	    "jpeg",
+	    "jq",
 	    "libyaml",
 	    "lv",
 	    "mobile-shell",
