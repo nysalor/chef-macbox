@@ -49,8 +49,8 @@
             "ruby-build",
             "tree",
             "w3m",
-	    "https://raw.github.com/nysalor/homebrew-myformulas/master/inputsource.rb",
-	    "https://raw.github.com/nysalor/homebrew-myformulas/master/inputsource.rb"
+	    "https://raw.github.com/nysalor/homebrew-myformulas/master/osx-cpu-temp.rb",
+	    "https://raw.github.com/nysalor/homebrew-myformulas/master/cmigemo.rb"
         ]
     }
 }
