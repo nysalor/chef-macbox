@@ -46,6 +46,7 @@
 	    "wget",
 	    "z",
 	    "zsh",
+	    "zsh-completions",
             "rbenv",
             "ruby-build",
             "tree",
