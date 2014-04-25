@@ -27,6 +27,7 @@
 	    "jq",
 	    "libyaml",
 	    "lv",
+	    "markdown",
 	    "mobile-shell",
 	    "mongodb",
 	    "mysql",
