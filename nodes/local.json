@@ -22,6 +22,7 @@
 	    "glib",
 	    "gnu-sed",
 	    "groonga",
+	    "hub",
 	    "imagemagick",
 	    "jpeg",
 	    "jq",
