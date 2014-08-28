@@ -7,54 +7,6 @@
     "run_list": [
         "recipe[homebrew]",
         "recipe[mac_os_x]",
-        "recipe[brew]"
-    ],
-    "homebrew": {
-        "packages": [
-	    "autoconf",
-	    "automake",
-	    "cmake",
-	    "ctags",
-	    "ffmpeg",
-	    "fontforge",
-	    "gettext",
-	    "git",
-	    "glib",
-	    "gnu-sed",
-	    "groonga",
-	    "hub",
-	    "imagemagick",
-	    "jpeg",
-	    "jq",
-	    "libyaml",
-	    "lv",
-	    "markdown",
-	    "mobile-shell",
-	    "mongodb",
-	    "mysql",
-	    "nkf",
-	    "openssl",
-	    "pango",
-	    "pkg-config",
-	    "python",
-	    "qt",
-	    "readline",
-	    "redis",
-	    "scala",
-	    "sqlite",
-	    "the_silver_searcher",
-	    "tig",
-	    "tmux",
-	    "wget",
-	    "z",
-	    "zsh",
-	    "zsh-completions",
-            "rbenv",
-            "ruby-build",
-            "tree",
-            "w3m",
-	    "https://raw.github.com/nysalor/homebrew-myformulas/master/osx-cpu-temp.rb",
-	    "https://raw.github.com/nysalor/homebrew-myformulas/master/cmigemo.rb"
-        ]
-    }
+        "recipe[my_homebrew]"
+    ]
 }
