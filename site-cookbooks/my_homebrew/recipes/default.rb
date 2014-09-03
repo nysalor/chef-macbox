@@ -1,6 +1,6 @@
 homebrew_tap 'nysalor/myformulas'
+homebrew_tap 'nysalor/ghq'
 homebrew_tap 'peco/peco'
-homebrew_tap 'motemen/ghq'
 package 'autoconf'
 package 'automake'
 package 'cmake'
