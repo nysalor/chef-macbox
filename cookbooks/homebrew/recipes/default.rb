@@ -1,7 +1,7 @@
 homebrew_go = "#{Chef::Config[:file_cache_path]}/homebrew_go"
 
 remote_file homebrew_go do
-  source "https://raw.github.com/mxcl/homebrew/go/install"
+  source "https://raw.githubusercontent.com/Homebrew/install/master/install"
   mode 00755
 end
 
